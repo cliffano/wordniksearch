@@ -1,0 +1,5 @@
+content wordniksearch    jar:chrome/wordniksearch.jar!/content/
+locale  wordniksearch    en-US   jar:chrome/wordniksearch.jar!/locale/en-US/
+locale  wordniksearch    id-ID   jar:chrome/wordniksearch.jar!/locale/id-ID/
+skin    wordniksearch    classic jar:chrome/wordniksearch.jar!/skin/
+overlay chrome://browser/content/browser.xul    chrome://wordniksearch/content/main.xul
