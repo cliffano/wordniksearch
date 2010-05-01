@@ -1,1 +1,9 @@
-TODO
+WordnikSearch is a Firefox Add-On which adds a right click menu option to search highlighted text on Wordnik.com . When there's no highlighted text, a search dialog will show up and you can type in the text that you want to search.
+
+==Screenshots==
+http://zillajr.googlecode.com/svn/wiki/images/wordniksearch_rightclick.png
+http://zillajr.googlecode.com/svn/wiki/images/wordniksearch_prompt.png
+
+==Changelog==
+  * 0.1
+    * Initial release.
