@@ -1,4 +1,4 @@
-com_cliffano_wordniksearch.Wordnik = Base.extend({
+com_cliffano_wordniksearch.Wordnik = name_edwards_dean_Base.extend({
     search: function (container, text) {
         
         var ffPreferencesService = Components.classes['@mozilla.org/preferences-service;1'].getService(Components.interfaces.nsIPrefBranch);
