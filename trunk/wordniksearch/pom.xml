@@ -2,7 +2,7 @@
     <modelVersion>4.0.0</modelVersion>
     <groupId>com.cliffano</groupId>
     <artifactId>wordniksearch</artifactId>
-    <version>0.1-SNAPSHOT</version>
+    <version>0.1</version>
     <description>Adds a right click menu option to search highlighted text on Wordnik.com .</description>
     <inceptionYear>2010</inceptionYear>
     <name>WordnikSearch</name>
