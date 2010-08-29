@@ -1,1 +1,0 @@
-com_cliffano_wordniksearch_namespace('com_cliffano_wordniksearch');
