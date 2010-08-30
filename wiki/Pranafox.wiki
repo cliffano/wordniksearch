@@ -1,6 +1,6 @@
 Pranafox is a Firefox Add-On which adds a right click menu option to shorten the selected URL using [http://prn.la PRN.LA] .
 
-[https://addons.mozilla.org/en-US/firefox/addon/TBA/ Install]
+[https://addons.mozilla.org/en-US/firefox/addon/222509/ Install]
 
 ==Screenshots==
 http://zillajr.googlecode.com/svn/wiki/images/pranafox_rightclick.jpg
