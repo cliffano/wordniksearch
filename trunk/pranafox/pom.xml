@@ -3,7 +3,7 @@
     <groupId>com.cliffano</groupId>
     <artifactId>pranafox</artifactId>
     <version>0.1.1</version>
-    <description>Adds a right click menu option to shorten the selected URL using PRN.LA .</description>
+    <description>Adds a right click menu option to shorten the selected URL using Prnla http://prn.la .</description>
     <inceptionYear>2010</inceptionYear>
     <name>Pranafox</name>
     <url>http://code.google.com/p/zillajr/wiki/Pranafox</url>
