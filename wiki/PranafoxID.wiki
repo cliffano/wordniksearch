@@ -14,4 +14,4 @@ http://zillajr.googlecode.com/svn/wiki/images/id_pranafox_prnla.jpg
   * 0.1.1
     * Perbarui ikon dan deskripsi.
   * 0.1
-    * Rilis awal.
+    * Rilis perdana.
