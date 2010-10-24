@@ -1,0 +1,17 @@
+Pranafox adalah pengaya Firefox yang menambah menu klik kanan untuk memendekkan pranala panjang dengan menggunakan situs Prnla [http://prn.la Prnla] .
+
+[https://addons.mozilla.org/id/firefox/addon/222509/ Instal]
+
+==Screenshots==
+http://zillajr.googlecode.com/svn/wiki/images/id_pranafox_rightclick.jpg
+http://zillajr.googlecode.com/svn/wiki/images/id_pranafox_prnla.jpg
+
+==Changelog==
+  * 0.1.3
+    * Tambah bahasa Inggris.
+  * 0.1.2
+    * Perbarui ikon, kini menggunakan transparansi.
+  * 0.1.1
+    * Perbarui ikon dan deskripsi.
+  * 0.1
+    * Rilis awal.
